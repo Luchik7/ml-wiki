@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "5451ee317e9d0363",
+    "type": "split",
+    "children": [
+      {
+        "id": "557e649bf3591b82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1a350aa747466d5",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Wiki/Wiki Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "c26a9dedbfd9a945",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wiki/Сферы ML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "033a2b590d252962",
+    "type": "split",
+    "children": [
+      {
+        "id": "dae4ea9ede0ff4a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20057a87eae0ae95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f210202e8b11578c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ML_spheres",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21ed35fb6936ad4c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "75a9f0da97702cb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3966f0b4f59e627b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ca750062d58ca27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wiki/Сферы ML.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e0d3d2a768ee94b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Wiki/Сферы ML.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4046c0329da5e32",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1dc9188dae93ca16",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Wiki/Сферы ML.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "c26a9dedbfd9a945",
+  "lastOpenFiles": [
+    "Templates/Paper Template.md",
+    "Wiki/Wiki Kanban.md",
+    "Wiki/Сферы ML.md",
+    "Wiki/Wiki Canvas.canvas",
+    "Wiki/Content/DS Roadmap.md",
+    "Wiki/Main Page.md",
+    "Wiki/Content/SOLID.md",
+    "Wiki/Content/Dependency Inversion (SOLID).md",
+    "Wiki/Content/Do not predict who churn.md",
+    "Wiki/Content/Data Science.md",
+    "Wiki/Content/Uplift users.md",
+    "Files/Снимок экрана 2022-10-11 в 18.41.45.png",
+    "Files/Снимок экрана 2022-10-12 в 09.18.29.png",
+    "Files/Снимок экрана 2022-10-12 в 09.34.38.png",
+    "Files/Снимок экрана 2022-10-11 в 18.37.22.png",
+    "Files/Снимок экрана 2022-10-10 в 14.11.54.png",
+    "Files/Roc_curve.svg.png",
+    "Files/Снимок экрана 2022-10-11 в 18.37.42.png",
+    "Files/Precisionrecall.svg.png",
+    "Files/v88lwkskz0vgyajssm6h20ewswm.png",
+    "Files/Снимок экрана 2022-10-10 в 14.20.13.png",
+    "Files",
+    "Wiki/Files",
+    "Wiki/Content/Uplift models.md",
+    "Wiki/Content/Classification Metrics.md",
+    "Wiki/Content/ML metrics.md",
+    "Wiki/Content/Uplift.md",
+    "Wiki/Content/Single Responsibility (SOLID).md",
+    "Wiki/Content/ROC Curve & ROC AUC.md",
+    "Wiki/Content/Recall.md",
+    "Wiki/Content/Precision.md",
+    "Wiki/Content/Open-Closed (SOLID).md",
+    "Wiki/Content/Liskov Substitution (SOLID).md",
+    "Wiki/Content/Label Encoder (LE) or Ordinal Encoder (OE).md",
+    "Wiki/Content/Interface Sergeration (SOLID).md",
+    "Wiki/Content/F measure.md",
+    "Wiki/Content/End-to-end ML project.md",
+    "Wiki/Content/Confusion Matrix.md",
+    "Wiki/Content/Con of classic churn approach.md",
+    "Templates",
+    "Wiki/Content",
+    "Wiki"
+  ]
+}
