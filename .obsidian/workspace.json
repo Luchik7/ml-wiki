@@ -160,6 +160,7 @@
   },
   "active": "c26a9dedbfd9a945",
   "lastOpenFiles": [
+    "LICENSE",
     "Templates/Paper Template.md",
     "Wiki/Wiki Kanban.md",
     "Wiki/Сферы ML.md",
@@ -198,7 +199,6 @@
     "Wiki/Content/F measure.md",
     "Wiki/Content/End-to-end ML project.md",
     "Wiki/Content/Confusion Matrix.md",
-    "Wiki/Content/Con of classic churn approach.md",
     "Templates",
     "Wiki/Content",
     "Wiki"
